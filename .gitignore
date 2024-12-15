@@ -31,7 +31,6 @@ out/
 bin/
 !**/src/main/**/bin/
 !**/src/test/**/bin/
-
 ### NetBeans ###
 /nbproject/private/
 /nbbuild/
@@ -47,6 +46,7 @@ bin/
 
 ### AOC ###
 /resources/*/*.txt
+/resources/*/*.data
 /resources/session
 
 !.gitkeep
